@@ -1,0 +1,56 @@
+body {
+    background-color: #4092e0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 23px;
+  }
+  
+  table {
+    margin: auto;
+  }
+  
+  input {
+    color: #147dbb;
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    border: 4px solid white;
+    margin: 5px;
+  
+  }
+
+  .alpha {
+      font-size: 10px;
+      color: gray;
+  }
+  
+  button {
+    border: white;
+    font-size: 40px;
+    background-color: white;
+    width: 123px;
+    height: 65px;
+  }
+  
+  button:hover {
+    background-color: white;
+    cursor: pointer;
+  }
+
+  
+  #call {
+    background-color: rgb(26, 224, 26);
+    border-radius: 5px;
+  }
+  
+  .dialer {
+    margin-top: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+    padding-bottom: 50px;
+    display: inline-block;
+  }
